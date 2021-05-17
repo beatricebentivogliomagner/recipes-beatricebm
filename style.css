@@ -1,0 +1,15 @@
+html, body {font-family: 'Inter', sans-serif;
+    background-color: black;
+color: #ffffff;}
+h1,h2,h3,h4 {font-family: 'Inter', sans-serif;}
+h1 { color: #ff00dd; }
+
+h2 { color: #ffffff;}
+h2:hover {color: #ff00dd;}
+
+ h3 { color: #ff00dd;}
+
+ h4 {color: #ffffff;}
+
+ #menu  {list-style-type: none;}
+
